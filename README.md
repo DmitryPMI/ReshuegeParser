@@ -1,8 +1,8 @@
-# parser_reshuege
-Delete links and solutions in EGE online test
+# Parser for reshuege service
 
-Using requests and bs4 ro remove links and solutions.
+**This projects may be useful for teachers**
 
-parser.py - ready script
-
-.ipynb - description
+ - Deletes links and solutions in EGE online test 
+ - Using requests and bs4 ro remove links and solutions.
+ - parser.py is a ready script
+ - .ipynb is a description
